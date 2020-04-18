@@ -1,0 +1,4 @@
+#Sat Apr 18 13:57:53 MDT 2020
+base.0=/home/spotless/Documents/FlutterCourse/yumyum_meals/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
