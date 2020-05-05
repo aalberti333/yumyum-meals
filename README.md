@@ -1,6 +1,8 @@
 # YumYum Meals App
 
-A mobile application to filter meals based on preferences. A project from Maximilian Schwarzmüller's Flutter Udemy course.
+A mobile application to favorite and filter meals based on preferences. A project from Maximilian Schwarzmüller's Flutter Udemy course.
+
+![](./demo_gif/yumyum_demo.gif)
 
 ## Setup
 
